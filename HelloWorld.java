@@ -1,5 +1,6 @@
 // learning VCS
 
+// learning to colaborate on Git repositories
 public class HelloWorld{
 	
 	public static void main(String[] args){
